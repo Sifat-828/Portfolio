@@ -1,5 +1,5 @@
 import { useState, useRef } from 'react';
-import { Send, Mail, Phone, MapPin, Linkedin, Github, Twitter, CheckCircle2 } from 'lucide-react';
+import { Send, Mail, MapPin, Linkedin, Github, Twitter, CheckCircle2 } from 'lucide-react';
 import { useTheme } from '../context/ThemeContext';
 import { useScrollReveal } from '../hooks/useScrollReveal';
 import emailjs from '@emailjs/browser';
